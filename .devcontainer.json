@@ -1,3 +1,0 @@
-{
-    "postCreateCommand": "source /usr/local/rvm/scripts/rvm && script/bootstrap"
-}
